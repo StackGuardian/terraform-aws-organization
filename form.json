@@ -40,11 +40,11 @@
     },
     "type":"object",
     "properties":{
-       "org_struct":{
+       "org_structure":{
          "type":"array",
          "items":{
           "type":"object",
-          "$ref":"#/definitions/wrapper"
+          "$ref":"#/definitions/Wrapper"
          }
        }
     }
