@@ -1,4 +1,4 @@
-variable "org_full" {
+variable "org_structure" {
     type = any
     default = ""
   
